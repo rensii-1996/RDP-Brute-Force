@@ -1,5 +1,12 @@
 # RDP Brute Force
 
+
+## 🚀 New App Update
+
+The new version of the app is out! 🚀 In this update, key bugs have been fixed and performance improved. Thank you for your support!
+To download the program, please visit the Releases section.
+
+
 ## 🤔 What is this?
 
 **RDP Brute Force** is a tool for brute force attacks on the Remote Desktop Protocol (RDP) on the Windows operating system, which allows users to remotely connect to computers and servers. This tool is written in C# programming language. Also, this tool has a Multi-threading feature that increases the efficiency and speed of testing simultaneous compounds.
