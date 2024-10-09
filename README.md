@@ -29,6 +29,17 @@ Before running the program, you must download and install .NET 8.0 or higher, an
 
 ---
 
+## Software Demo
+
+I'm excited to showcase the software! Below you can find a brief demonstration of its features and functionalities.
+
+## Demo Link
+Check out the demo on YouTube: [Watch Demo](https://www.youtube.com/watch?v=Z186nAIKXXg&t=51s)
+
+I hope you find it helpful and informative!
+
+---
+
 ## ⚠️ Important points before using the program
 > This program is written for educational purposes and unauthorized use is at the user's own risk.
 
