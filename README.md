@@ -36,7 +36,7 @@ I'm excited to showcase the software! Below you can find a brief demonstration o
 ## Demo Link
 Check out the demo on YouTube: [Watch Demo](https://www.youtube.com/watch?v=Z186nAIKXXg&t=51s)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z186nAIKXXg?si=VQLFnhXk16Klje-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 I hope you find it helpful and informative!
 
