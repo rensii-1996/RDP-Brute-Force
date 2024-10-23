@@ -34,9 +34,9 @@ Before running the program, you must download and install .NET 8.0 or higher, an
 I'm excited to showcase the software! Below you can find a brief demonstration of its features and functionalities.
 
 ## Demo Link
-Check out the demo on YouTube: [Watch Demo](https://www.youtube.com/watch?v=Z186nAIKXXg&t=51s)
+Check out the demo on YouTube: [Watch Demo](https://www.youtube.com/watch?v=Z186nAIKXXg)
 
-
+[![Fast RDP Brute (New Version 2024)](https://img.youtube.com/vi/Z186nAIKXXg/0.jpg)](https://www.youtube.com/watch?v=Z186nAIKXXg)
 
 I hope you find it helpful and informative!
 
