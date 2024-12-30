@@ -48,6 +48,6 @@ I hope you find it helpful and informative!
 
 ## In Progress Task:
 - [x] Show count users, passwords and ips
-- [] Pause And Resume 
-- [] Higher speed
+ [] Pause And Resume 
+ [] Higher speed
 
