@@ -49,7 +49,7 @@ I hope you find it helpful and informative!
 ---
 
 ## In Progress Task:
-- [x] Show count users, passwords and ips
+- [x] Show the number of usernames, passwords and IPs
 - [x] Show Total Requests
 - [x] Show Send Requests
 - [ ] Pause And Resume
