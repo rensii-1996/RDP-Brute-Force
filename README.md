@@ -46,8 +46,13 @@ I hope you find it helpful and informative!
 > This program is written for educational purposes and unauthorized use is at the user's own risk.
 
 
+---
+
 ## In Progress Task:
 - [x] Show count users, passwords and ips
- [] Pause And Resume 
- [] Higher speed
+- [x] Show Total Requests
+- [x] Show Send Requests
+- [ ] Pause And Resume
+- [ ] Higher speed
+
 
