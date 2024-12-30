@@ -1,4 +1,4 @@
-# RDP Brute Force
+# FastRDP (RDP Brute Force)
 
 
 ## 🚀 New App Update
@@ -9,7 +9,7 @@ To download the program, please visit the Releases section.
 
 ## 🤔 What is this?
 
-**RDP Brute Force** is a tool for brute force attacks on the Remote Desktop Protocol (RDP) on the Windows operating system, which allows users to remotely connect to computers and servers. This tool is written in C# programming language. Also, this tool has a Multi-threading feature that increases the efficiency and speed of testing simultaneous compounds.
+**FastRDP** is a tool for brute force attacks on the Remote Desktop Protocol (RDP) on the Windows operating system, which allows users to remotely connect to computers and servers. This tool is written in C# programming language. Also, this tool has a Multi-threading feature that increases the efficiency and speed of testing simultaneous compounds.
 
 > The reason for the development of this program is that it is very accurate and does not have false positives compared to tools like ***Hydra***.
 
